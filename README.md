@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LouisevS
+- 👋 Hi, I’m Louise
 - 👀 I’m 18 yrs old
 - 👩🏼 I’m currently learning JavaScript 
  
