@@ -1,0 +1,6 @@
+- 🔭 I’m currently working on a website
+- 🌱 I’m learning to work with Javascript
+- 🤔 I’m looking for any help with Javascript and my website
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Just getting started
+-->
