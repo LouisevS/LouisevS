@@ -1,7 +1,1 @@
-- 🔭 I’m currently working on a website
-- 🌱 I’m learning to work with Javascript
-- 🤔 I’m looking for any help with Javascript and my website
-- 😄 Pronouns: She/Her
--    17 yrs old
-- ⚡ Fun fact: Just getting started
--->
+.
