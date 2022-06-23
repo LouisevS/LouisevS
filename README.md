@@ -36,8 +36,8 @@ I love the whole process of developing creative things. In addition, I love chal
 
 ## 🌱 I'm currently learning
 
-- Python programming
 - Encrypt
+- Python 
 - HTML
 
 
