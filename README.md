@@ -26,3 +26,18 @@ I love the entire process of developing creative websites. I love the challenge 
 ![Louise's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisevS&show_icons=true&theme=omni)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisevS&show_icons=true&theme=omni)](https://github.com/LouisevS)
 
+## 🔭 I'm currently working on
+
+- My old projects
+- Restaurant Recommendation App (React-Native)
+- Mobile + Desktop Spotify Clone (Working on it soon...)
+- My next blog
+- My CSS skill
+
+## 🌱 I'm currently learning
+
+- 📱 React Native
+- Firebase
+- React Context API
+- Styled Components  
+
