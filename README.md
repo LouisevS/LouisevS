@@ -21,7 +21,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 
 
-<a href=""><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="">https://medium.com/@louisevs<img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="louisevs| Medium" width="21px"/></a>
 </br>
 
 
