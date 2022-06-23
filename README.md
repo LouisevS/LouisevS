@@ -6,7 +6,7 @@ Hi there, I'm Louise</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a website developer 💻, Photographer 📸, and  Interior designer 🎨!
+I'm a developer 💻, Photographer 📸, and  Interior designer 🎨!
 </h2> 
 
 I love the whole process of developing creative things. In addition, I love challenges and to get to know new people
