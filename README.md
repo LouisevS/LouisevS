@@ -17,6 +17,10 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://www.instagram.com/louisevsx_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="louisevsx | Instagram" width="21px"/></a>
 
 
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
+
+
 ![Louise's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisevS&show_icons=true&theme=omni)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisevS&show_icons=true&theme=omni)](https://github.com/LouisevS)
 
