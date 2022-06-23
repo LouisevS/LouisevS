@@ -11,7 +11,7 @@ I'm a website developer 💻, Photographer 📸, and  Interior designer 🎨!
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-<a href=”https://www.linkedin.com/in/Louise van Staveren/"><img align=”left” src=”https://raw.githubusercontent.com/LouisevS/LouisevS/main/images/linkedin.svg" alt=”Louise | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/louise-van-staveren-5727b723b//"><img align=”left” src=”https://raw.githubusercontent.com/LouisevS/LouisevS/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
 
 ![Louise's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisevS&show_icons=true&theme=omni)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisevS&show_icons=true&theme=omni)](https://github.com/LouisevS)
