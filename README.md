@@ -17,4 +17,4 @@ I love the entire process of developing creative websites. I love the challenge 
 	![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ![Louise's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisevS&show_icons=true&theme=omni)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&LouisevSlayout=compact)](https://github.com/LouisevS)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisevS&layout=compact)](https://github.com/LouisevS)
