@@ -38,7 +38,7 @@ I love the whole process of developing creative things. In addition, I love chal
 
 - Python programming
 - Encrypt
-- 
+- HTML
 
 
 
