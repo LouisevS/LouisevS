@@ -11,7 +11,4 @@ I'm a website developer 💻, Photographer 📸, and  Interior designer 🎨!
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
-[![LouisevS GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisevS)](https://github.com/LouisevS/github-readme-stats)
-
-
 ![Louise's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisevS&show_icons=true&theme=radical)
