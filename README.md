@@ -16,6 +16,9 @@ I love the entire process of developing creative websites. I love the challenge 
 <a href="https://www.linkedin.com/in/louise-van-staveren-5727b723b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Louise van Staveren | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/louisevsx_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="louisevsx | Instagram" width="21px"/></a>
 
+![mail](https://user-images.githubusercontent.com/77670525/175306593-28cc8d51-bfc7-4c92-b762-74c78a8f10f1.png)
+
+
 
 <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
