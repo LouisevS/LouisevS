@@ -9,7 +9,8 @@ Hi there, I'm Louise</a> 👋
 I'm a website developer 💻, Photographer 📸, and  Interior designer 🎨!
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love the whole process of developing creative things. In addition, I love challenges and to get to know new people
+
 
 ### 🤝 Connect with me:
 
@@ -29,17 +30,16 @@ I love the entire process of developing creative websites. I love the challenge 
 ## 🔭 I'm currently working on
 
 - My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
+- A portfolio website
 - My next blog
-- My CSS skill
+
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- Python programming
+- Encrypt
+- 
+
 
 
 ## 💼 Technical Skills
