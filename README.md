@@ -15,7 +15,7 @@ I love the whole process of developing creative things. In addition, I love chal
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/louise-van-staveren-5727b723b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Louise van Staveren | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/louisevsx_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="louisevsx | Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/louise.vsx_/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="louise.vsx | Instagram" width="21px"/></a>
 <a href="https://medium.com/@louisevs"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="louisevs | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
